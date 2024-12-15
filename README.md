@@ -7,6 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/mawais_pk" target="blank"><img src="https://img.shields.io/twitter/follow/mawais_pk?logo=twitter&style=for-the-badge" alt="mawais_pk" /></a> </p>
 
+- 🔭 I’m currently working on [afadsfc](asdfdasgsdf)
+
+- 🌱 I’m currently learning **asdfas**
+
+- 👯 I’m looking to collaborate on [dasfasd](fdsgsfdfs)
+
+- 🤝 I’m looking for help with [sadfasd](sfdgsdfg)
+
+- 👨‍💻 All of my projects are available at [sadfasd](sadfasd)
+
+- 📝 I regularly write articles on [sadfasdsa](sadfasdsa)
+
+- 💬 Ask me about **asdfasd**
+
+- 📫 How to reach me **mawais.afz@gmai.com**
+
+- 📄 Know about my experiences [sadfasd](sadfasd)
+
+- ⚡ Fun fact **adsfasd**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mawais_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mawais_pk" height="30" width="40" /></a>
